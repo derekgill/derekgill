@@ -2,6 +2,6 @@
 
 [Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekgill&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derekgill)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derekgill&repo=DungeonGenerator)](https://github.com/Girini-Software/DungeonGenerator)
 
 <a href="https://app.daily.dev/derekgill"><img src="https://api.daily.dev/devcards/72296ec5a9df44aab5be24ff3e4d282d.png?r=p46" width="400" alt="Derek Gill's Dev Card"/></a>
