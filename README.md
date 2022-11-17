@@ -1,7 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekgill)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=derekgill&show_icons=true&theme=transparent&count_private=true)](https://github-readme-stats.vercel.app/api?username=derekgill&show_icons=true&theme=transparent&count_private=true)]
-
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=derekgill&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" />
 </picture>
